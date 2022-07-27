@@ -1,6 +1,0 @@
-apt-get datetime
-apt-get yfinance as yf
-apt-get import pandas as pd
-apt-get import display, HTML
-apt-get import PrettyTable  
-apt-get import ssl
