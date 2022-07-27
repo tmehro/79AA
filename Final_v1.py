@@ -1,9 +1,4 @@
-from datetime import datetime
-import yfinance as yf
-import pandas as pd
-from IPython.display import display, HTML
-from prettytable import PrettyTable  
-import ssl
+
 pd.options.display.float_format = '{:.3f}'.format
 
 def riskFreeRate():
